@@ -1,4 +1,4 @@
-firt you need to install a IDE like pycharm,VS code 
+first you need to install a IDE like pycharm,VS code 
 python must be installed in your laptop/Desktop
 
 To run this code
